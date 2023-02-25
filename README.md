@@ -4,7 +4,7 @@ With the help of this program you can use your word file in any format wheter it
 
 ##### A list of Java API's have been used
 
-The java apis which have been used can be found under the [lib](https://github.com/ihnaqi/Word2Pdf/tree/main/lib) folder which I have deliberately ignored to exclude in [`.gitignore`]().
+The java apis which have been used can be found under the [lib](https://github.com/ihnaqi/Word2Pdf/tree/main/lib) folder which I have deliberately ignored to exclude in [.gitignore](https://github.com/ihnaqi/Word2Pdf/blob/main/.gitignore).
 
 - [Apache POI](https://poi.apache.org/download.html#POI-5.2.3) is used to read _Word_ file in _Java_, there might be other such files out there but to my knowledge it is easy to understand, at least among what I have come across.
 
