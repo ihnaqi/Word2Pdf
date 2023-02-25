@@ -2,7 +2,7 @@
 
 With the help of this program you can use your word file in any format wheter it is written in [Libre Writer](https://www.libreoffice.org/discover/writer/) or [Microsoft Word](https://www.microsoft.com/en-ww/microsoft-365/word) or any other, to convert them into _pdf_.
 
-##### A list of Java API's have been used
+### A list of Java APIs have been used
 
 The java apis which have been used can be found under the [lib](https://github.com/ihnaqi/Word2Pdf/tree/main/lib) folder which I have deliberately ignored to exclude in [.gitignore](https://github.com/ihnaqi/Word2Pdf/blob/main/.gitignore).
 
